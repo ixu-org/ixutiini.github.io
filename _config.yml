@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   Project docs by ixutiini
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://ixu-org.github.io/ixutiini.github.io"
+url: "https://ixu-org.github.io/"
 
 github:
   username: ixutiini # change to your github username
