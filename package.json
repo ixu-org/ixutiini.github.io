@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.19",
+    "exec-sh": "^0.4.0",
+    "postcss": "^8.4.39",
+    "postcss-cli": "^11.0.0"
+  },
+  "scripts": {
+    "build:css": "node integrate-tailwind.js",
+    "jekyll:serve": "bundle exec jekyll clean && bundle exec jekyll build && bundle exec jekyll serve"
+  }
+}
